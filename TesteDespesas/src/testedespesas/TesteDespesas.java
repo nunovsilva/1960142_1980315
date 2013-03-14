@@ -12,6 +12,8 @@ package testedespesas;
  */
 public class TesteDespesas {
     int teste;
+    int teste2;
+    int teste3 = teste+ teste2;
     //teste
 
     
