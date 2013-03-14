@@ -11,6 +11,7 @@ package testedespesas;
  * 
  */
 public class TesteDespesas {
+    int teste;
     //teste
 
     
