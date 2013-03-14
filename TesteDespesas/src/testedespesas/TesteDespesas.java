@@ -12,6 +12,6 @@ public class TesteDespesas {
 
     
     public static void main(String[] args) {
-        // TOcode application logic here
+        // TOcode aplication logic here
     }
 }
