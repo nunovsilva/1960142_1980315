@@ -4,7 +4,7 @@ package testedespesas;
 
 /**
  *
- * @author i980315
+ * i980315
  */
 
 /*1960142*/
