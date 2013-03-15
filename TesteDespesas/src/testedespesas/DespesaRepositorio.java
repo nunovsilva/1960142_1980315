@@ -9,5 +9,12 @@ package testedespesas;
  * @author Nuno
  */
 public class DespesaRepositorio {
+    private Despesa newDespesa;
     
+    public void grava(Despesa des){
+        
+    }
+    public void add(){
+        
+    }
 }
